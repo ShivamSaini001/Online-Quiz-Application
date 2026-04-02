@@ -22,8 +22,8 @@ The application should support multiple-choice questions, track user progress, a
 ### Project Setup (Make sure your internect is connected during setup process to download dependencies of your project)
 - **step 1:** Softwares Require--
     - STS or Ecliplse <a href="https://spring.io/tools#eclipse">https://spring.io/tools#eclipse</a>
-    - MySQL <a href="https://spring.io/tools#eclipse">https://spring.io/tools#eclipse</a>
-    - Apache Tomcat Server <a href="https://spring.io/tools#eclipse">https://spring.io/tools#eclipse</a>
+    - MySQL <a href="https://dev.mysql.com/downloads/installer">https://dev.mysql.com/downloads/installer</a>
+    - Apache Tomcat Server <a href="">https://tomcat.apache.org/download-90.cgi</a>
 - **step 2:** Go to github repo https://github.com/ShivamSaini001/Online-Quiz-Application
 - **step 3:** Download Online-Quiz-Application project. 
 - **step 4:** Extract zip folder and open ecliple or STS Ide. 
