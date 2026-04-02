@@ -20,12 +20,16 @@ The application should support multiple-choice questions, track user progress, a
 - **IDs**: Eclipse Ide
 
 ### Project Setup (Make sure your internect is connected during setup process to download dependencies of your project)
-- **step 1:** Go to github repo https://github.com/ShivamSaini001/Online-Quiz-Application
-- **step 2:** Download Online-Quiz-Application project.
-- **step 3:** Extract zip folder and open ecliple Ide.
-- **Step 4:** In eclipse Ide goto File->Import...->Maven->Existing Maven Projects
-- **Step 5:** Select Root directory of your project (Online-Quiz-Application).
-- **Step 6:** After completing stpe-5, configure Apache Tomcat server.
+- **step 1:** Softwares Require--
+    - STS or Ecliplse <a href="https://spring.io/tools#eclipse">https://spring.io/tools#eclipse</a>
+    - MySQL <a href="https://spring.io/tools#eclipse">https://spring.io/tools#eclipse</a>
+    - Apache Tomcat Server <a href="https://spring.io/tools#eclipse">https://spring.io/tools#eclipse</a>
+- **step 2:** Go to github repo https://github.com/ShivamSaini001/Online-Quiz-Application
+- **step 3:** Download Online-Quiz-Application project. 
+- **step 4:** Extract zip folder and open ecliple or STS Ide. 
+- **Step 5:** In eclipse Ide goto File->Import...->Maven->Existing Maven Projects
+- **Step 6:** Select Root directory of your project (Online-Quiz-Application).
+- **Step 7:** After completing stpe-5, configure Apache Tomcat server.
               To configure server follow these stpes:
   (i) go to Window -> Show view -> Other
   (ii) search server and select server.
