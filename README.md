@@ -37,8 +37,8 @@ The application should support multiple-choice questions, track user progress, a
 
 ## Usage
 
-1. Access the application at `http://localhost:8080` (or the port you’ve configured).
-2. Register a new user or log in with admin credentials:
+1. Access the application at `http://localhost:8080/Online-Quiz-App` (or the port you’ve configured).
+2. Register a new user or log in with admin credentials: 
    - **Username**: admin@example.com
    - **Password**: admin123
 3. Navigate to:
