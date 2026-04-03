@@ -37,7 +37,7 @@ The application should support multiple-choice questions, track user progress, a
 
 ## Usage
 
-1. Access the application at `http://localhost:8080/Online-Quiz-App` (or the port you’ve configured).
+1. Access the application at `http://localhost:8080/Online-Quiz-App` (or the port you've configured).
 2. Register a new user or log in with admin credentials: 
    - **Username**: admin@example.com
    - **Password**: admin123
@@ -51,3 +51,60 @@ Created by [Shivam saini](shivamsaini3209@gmail.com) - feel free to reach out!
 
 
 ## User Interface
+
+### Login Page
+![Login Page](./images/Login%20Page.png)
+
+### Register Page
+![Register Page](./images/Register%20page.png)
+
+### Home Page
+![Home Page](./images/Home%20page.png)
+
+### User Home Page
+![User Home Page](./images/User%20Home%20Page.png)
+
+### Admin Home Page
+![Admin Home Page](./images/Admin%20home%20page.png)
+
+### Admin Panel
+![Admin Panel](./images/Admin%20pannel.png)
+
+### Create Quiz Page
+![Create Quiz Page](./images/Create%20Quiz%20Page.png)
+
+### Manage Category
+![Manage Category](./images/Manage%20category.png)
+
+### Update Category
+![Update Category](./images/Update%20category.png)
+
+### Delete Category
+![Delete Category](./images/Delete%20category.png)
+
+### Manage Questions
+![Manage Questions](./images/Manage%20Questinos.png)
+
+### Add New Question
+![Add New Question](./images/Add%20new%20question.png)
+
+### Update Question
+![Update Question](./images/Update%20Question.png)
+
+### Quiz Question
+![Quiz Question](./images/Quiz%20question.png)
+
+### Quiz Question - Correct Answer
+![Quiz Question - Correct Answer](./images/Quiz%20question%20correct%20answer.png)
+
+### Quiz Question - Wrong Answer
+![Quiz Question - Wrong Answer](./images/Quiz%20question%20wrong%20answer.png)
+
+### Quiz Question - Not Attempted
+![Quiz Question - Not Attempted](./images/Quiz%20question%20not%20attempt.png)
+
+### Quiz Result
+![Quiz Result](./images/Quiz%20result.png)
+
+### Quiz History
+![Quiz History](./images/Quiz%20History.png)
