@@ -1,0 +1,33 @@
+@charset "UTF-8";
+
+body {
+	background: #F8F4EC;
+	margin: 0px;
+	padding: 0px;
+	box-sizing: border-box;
+}
+
+.custom-sequence li::marker {
+	content: counter(list-item) ") "; /* Add ')' */
+	list-style-type: lower-alpha;
+	font-weight: normal;
+	font-weight: bold;
+}
+
+.list-bold li::marker {
+	font-weight: bold;
+}
+
+.my-custom-bg-1 {
+	/* background: linear-gradient(to top, rgb(9, 32, 63) 0%, rgb(83, 120, 149) 100%); */
+	background: linear-gradient(to top left, rgb(30, 33, 48) 6.8%,
+		rgb(74, 98, 110) 131%) !important;
+	background-repeat: no-repeat !important;
+	min-height: 100vh !important;
+}
+
+.card-bg-1 {
+	background: #D1D0D0 !important;
+	--bs-table-color: #000;
+    --bs-table-bg: #D1D0D0;
+}
