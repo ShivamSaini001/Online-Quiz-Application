@@ -64,32 +64,8 @@ Created by [Shivam saini](shivamsaini3209@gmail.com) - feel free to reach out!
 ### User Home Page
 ![User Home Page](./images/User%20Home%20Page.png)
 
-### Admin Home Page
-![Admin Home Page](./images/Admin%20home%20page.png)
-
-### Admin Panel
-![Admin Panel](./images/Admin%20pannel.png)
-
 ### Create Quiz Page
 ![Create Quiz Page](./images/Create%20Quiz%20Page.png)
-
-### Manage Category
-![Manage Category](./images/Manage%20category.png)
-
-### Update Category
-![Update Category](./images/Update%20category.png)
-
-### Delete Category
-![Delete Category](./images/Delete%20category.png)
-
-### Manage Questions
-![Manage Questions](./images/Manage%20Questinos.png)
-
-### Add New Question
-![Add New Question](./images/Add%20new%20question.png)
-
-### Update Question
-![Update Question](./images/Update%20Question.png)
 
 ### Quiz Question
 ![Quiz Question](./images/Quiz%20question.png)
@@ -108,3 +84,29 @@ Created by [Shivam saini](shivamsaini3209@gmail.com) - feel free to reach out!
 
 ### Quiz History
 ![Quiz History](./images/Quiz%20History.png)
+
+## Admin Interface
+
+### Admin Home Page
+![Admin Home Page](./images/Admin%20home%20page.png)
+
+### Admin Panel
+![Admin Panel](./images/Admin%20pannel.png)
+
+### Manage Category
+![Manage Category](./images/Manage%20category.png)
+
+### Update Category
+![Update Category](./images/Update%20category.png)
+
+### Delete Category
+![Delete Category](./images/Delete%20category.png)
+
+### Manage Questions
+![Manage Questions](./images/Manage%20Questinos.png)
+
+### Add New Question
+![Add New Question](./images/Add%20new%20question.png)
+
+### Update Question
+![Update Question](./images/Update%20Question.png)
